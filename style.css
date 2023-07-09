@@ -6,6 +6,7 @@
 
 body {
     border: 1dvw solid lightgray;
+    border-radius: 2dvw;
     margin-left: 35dvw;
     margin-right: 35dvw;
 }
